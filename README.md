@@ -1,2 +1,1 @@
-# license-server
-license-server
+lmbn
